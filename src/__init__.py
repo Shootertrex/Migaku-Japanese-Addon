@@ -16,4 +16,4 @@ from . import models
 from anki.hooks import addHook
 addHook("profileLoaded", models.addModels)
 
-from . import main, migakuMessage
+from . import main
