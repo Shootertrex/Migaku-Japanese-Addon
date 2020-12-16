@@ -1,3 +1,13 @@
+# Migaku Japanese Addon fork without MOTD
+
+This is an unofficial fork that contains the minimum delta to the [upstream](https://github.com/migaku-official/Migaku-Japanese-Addon) to remove the Message of the Day functionality (popup notifications on startup) and is otherwise 1:1 with the original. The code to display the MOTD still exists, but it's just disabled. It may be removed completely later.
+
+Only submit bug reports here if you are still experiencing the notifications. All other bugs should be reported on the original repo or other official Migaku channels.
+
+The remainder is the original Migaku Japanese Addon README
+
+---
+
 <h2 align="center">Migaku Japanese Addon</h2>
 
 <p align="center">
